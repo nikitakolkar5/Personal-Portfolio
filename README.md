@@ -1,0 +1,2 @@
+# Personal-Portfolio
+A modern and responsive web portfolio built using React.js to showcase my background as a Java Developer experienced in Spring Boot, REST APIs, and full-stack development. The site features a professional About Me section, a display of key projects including a Book Finder App (Open Library API) and a To-Do List App, and contact links to GitHub and LinkedIn. Designed to be simple, elegant, and easy to navigate.
