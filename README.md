@@ -1,2 +1,43 @@
-# Personal-Portfolio
-A modern and responsive web portfolio built using React.js to showcase my background as a Java Developer experienced in Spring Boot, REST APIs, and full-stack development. The site features a professional About Me section, a display of key projects including a Book Finder App (Open Library API) and a To-Do List App, and contact links to GitHub and LinkedIn. Designed to be simple, elegant, and easy to navigate.
+# 👩‍💻 Nikita Kolkar – Personal Portfolio Website
+
+This is a personal developer portfolio website built using **React.js** to showcase my skills, experience, and projects as a Full Stack Java Developer.
+
+## 🚀 Live Demo
+
+🌐 [Visit Portfolio Website](https://your-netlify-site.netlify.app) <!-- Update this with your real Netlify link -->
+
+## 📌 Features
+
+- Responsive modern design
+- "About Me" section with brief bio
+- Project showcase with details
+- Contact section with links to GitHub and LinkedIn
+
+## 💻 Tech Stack
+
+- Frontend: **React.js**
+- Styling: **CSS3**
+- Build Tool: **Vite** (or Create React App)
+
+## 🧩 Projects Featured
+
+### 📚 Book Finder App
+Search books by title using the Open Library API.
+
+### ✅ To-Do List App
+A simple and efficient task manager to manage daily tasks.
+
+## 📇 Contact
+
+- 📧 Email: nikita.kolkar@example.com
+- 🔗 LinkedIn: [linkedin.com/in/nikitakolkar](https://linkedin.com/in/nikitakolkar)
+- 💻 GitHub: [github.com/nikitakolkar](https://github.com/nikitakolkar)
+
+---
+
+### 📁 Getting Started
+
+1. Clone the repo:
+```bash
+git clone https://github.com/nikitakolkar/portfolio-site.git
+cd portfolio-site
